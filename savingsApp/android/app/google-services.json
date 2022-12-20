@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048016560161",
+    "project_id": "raundtable-624e5",
+    "storage_bucket": "raundtable-624e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048016560161:android:412977ec8e4cac9622c360",
+        "android_client_info": {
+          "package_name": "com.raundtable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048016560161-1ci738n055s8mg8kqp306ke5p73plarp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUtdFynrG8YfXs72voKVsznf6XDfjZvIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048016560161-1ci738n055s8mg8kqp306ke5p73plarp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
